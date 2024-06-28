@@ -17,6 +17,8 @@
       <excludeFolder url="file://$MODULE_DIR$/venv" />
       <excludeFolder url="file://$MODULE_DIR$/.envs" />
       <excludeFolder url="file://$MODULE_DIR$/pip" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/8/8" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/securityhotspotstore/8/8" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.10 (env)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
