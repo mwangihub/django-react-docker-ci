@@ -5,7 +5,7 @@ pip/
 venv/
 .envs/
 .env
-.git
+.git/
 db.sqlite3
 .idea/
 # Byte-compiled / optimized / DLL files
