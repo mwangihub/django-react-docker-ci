@@ -1,3 +1,5 @@
+
+
 name: Django docker CI
 on:
   push:
@@ -9,6 +11,8 @@ on:
 jobs:
   test:
     runs-on: ubuntu-latest
+    env:
+      DJANGO_SECRET_KEY: a88vQENZiRm0GRq6aTEST_KEYS
     steps:
       - uses: actions/checkout@v2
       - name: Set up Python
