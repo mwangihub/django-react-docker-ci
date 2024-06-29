@@ -8,6 +8,7 @@ venv/
 .git/
 db.sqlite3
 .idea/
+**/. idea
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -20,7 +21,7 @@ __pycache__/
 .Python
 build/
 develop-eggs/
-dist/
+dist/  
 downloads/
 eggs/
 .eggs/

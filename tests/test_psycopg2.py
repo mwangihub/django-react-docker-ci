@@ -3,11 +3,11 @@ import psycopg2
 try:
     # Establish the connection
     connection = psycopg2.connect(
-        user="postgres",
-        password="kasuku",
-        host="127.0.0.1",
-        port="5432",
-        database="mwangihub_use_docker_1"
+        user="",
+        password="",
+        host="",
+        port="",
+        database=""
     )
 
     # Create a cursor object

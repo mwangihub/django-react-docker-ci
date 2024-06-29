@@ -19,6 +19,28 @@
       <excludeFolder url="file://$MODULE_DIR$/pip" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/8/8" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/securityhotspotstore/8/8" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/1/9" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/3/7" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/5/6" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/7/1" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/7/4" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/7/c" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/f/4" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/4" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/9" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/b" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/c" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/securityhotspotstore/1/9" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/securityhotspotstore/3/7" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/securityhotspotstore/5/6" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/securityhotspotstore/7/1" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/securityhotspotstore/7/4" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/securityhotspotstore/7/c" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/securityhotspotstore/f/4" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/securityhotspotstore/4" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/securityhotspotstore/9" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/securityhotspotstore/b" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/securityhotspotstore/c" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.10 (env)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
