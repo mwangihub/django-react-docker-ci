@@ -8,7 +8,7 @@ venv/
 .git/
 db.sqlite3
 .idea/
-**/. idea
+**/.idea
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
