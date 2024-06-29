@@ -3,12 +3,11 @@ from .base import INSTALLED_APPS
 from .base import MIDDLEWARE
 from .base import env
 
+env.read_env(str(BASE_DIR / ".env"))
+
 DEBUG = True
 
-SECRET_KEY = env(
-    "DJANGO_SECRET_KEY",
-    default="NED1XoJJRhbhmJXtLmEtX4StpDRanCi2Bp5KXtdqhUOZBJGwLn8voM16agD8IBmf",
-)
+SECRET_KEY = env("DJANGO_SECRET_KEY")
 
 ALLOWED_HOSTS = ["localhost", "0.0.0.0", "127.0.0.1"]  # noqa: S104
 
